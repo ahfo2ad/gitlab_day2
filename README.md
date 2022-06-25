@@ -14,3 +14,6 @@
 
 # To delete local tags
 ## git tag -d v1.7
+
+![1](https://user-images.githubusercontent.com/96915777/175772577-0c8d95fe-f9b5-4e59-beaa-8032d0f249b2.jpg)
+
